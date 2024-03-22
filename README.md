@@ -2,14 +2,14 @@
    Nest.js - MongoDB Auth
 </h1>
 
+<h2>
+📷 Screenshots
+</h2>
+
 <p align="center">
   <img src="https://github.com/ozkannbuyuk/nestjs-mongodb-auth/assets/111967202/aa53da5d-c2b1-49de-bcb4-c3566dd058b7" width="400" />
   <img src="https://github.com/ozkannbuyuk/nestjs-mongodb-auth/assets/111967202/b129e742-fe1c-4363-ac46-44347fc968ae" width="400" />
 </p>
-
-<h2>
-📷 Screenshots
-</h2>
 
 <h2>
 ❓ About
